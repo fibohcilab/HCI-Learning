@@ -3,6 +3,8 @@
 # Socket
 
 # MQTT
+- Eclipse Mosquitto
+  - https://mosquitto.org
 - https://iotbyhvm.ooo/mqtt/
 - MQTT Client Tools
   - https://www.eclipse.org/paho/components/tool/
