@@ -10,7 +10,8 @@
   - https://github.com/eclipse/paho.mqtt.m2mqtt
 - MQTT Client Tools
   - https://www.eclipse.org/paho/components/tool/
-
+- python
+  - https://pypi.org/project/paho-mqtt/
 
 # Unity
   - https://unity.com/
