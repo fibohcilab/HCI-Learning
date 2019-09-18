@@ -12,6 +12,8 @@
   - https://www.eclipse.org/paho/components/tool/
 - python
   - https://pypi.org/project/paho-mqtt/
+- Unity
+  - https://github.com/vovacooper/Unity3d_MQTT
 
 # Unity
   - https://unity.com/
