@@ -31,5 +31,7 @@
 # Dobot
 - DobotStudio-V1.7.1
   - https://www.dobot.cc/downloadcenter.html
+- Python library for Dobot Magician
+  - https://github.com/luismesas/pydobot
 - Leap Motion Orion 3.2.1
   - https://developer.leapmotion.com/releases/?category=orion
