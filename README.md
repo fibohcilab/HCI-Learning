@@ -15,7 +15,7 @@
 - Unity
   - https://github.com/vovacooper/Unity3d_MQTT
 - Arduino
-  - https://github.com/arduino-libraries/ArduinoMqttClient
+  - https://github.com/knolleary/pubsubclient
 
 
 # Unity
